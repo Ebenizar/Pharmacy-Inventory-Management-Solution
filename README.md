@@ -71,7 +71,7 @@ The dataset contains pharmacy operational records, including:
 - Data Validation
 - Dynamic Named Ranges
 
-## Data Cleaning Process
+## Data Cleaning
 Before analysis, the dataset underwent a structured data cleaning process:
 
 - Removed duplicate records.
