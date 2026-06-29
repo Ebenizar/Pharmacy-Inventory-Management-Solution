@@ -36,7 +36,7 @@ The pharmacy needed a centralized reporting system that could answer key busines
 - Which suppliers provide the highest volume of products?
 - How can management make faster, data-driven inventory decisions?
 
-## Analysis Ojectives
+## Analysis Objectives
 The objective is to build an Excel dashboard that provides real-time visibility into pharmacy operations.
 
 - Analyze pharmacy sales performance.
